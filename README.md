@@ -15,4 +15,10 @@ Statistical analysis revealed a highly significant difference between schizophre
 - Python
 - NumPy
 - OpenCV
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/diyar-akgun/medical-ai.git
+
 # medical-ai
